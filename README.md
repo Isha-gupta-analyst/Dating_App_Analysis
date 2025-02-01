@@ -19,7 +19,7 @@ This dataset contains simulated data from a dating app, focusing on user behavio
 
 4️⃣ Education Level Breakdown - Stacked Bar Chart
 
-5️⃣ Users Having Children (%) - Donut Chart (Gold for Yes, Silver for No)
+5️⃣ Users Having Children (%) - Donut Chart 
 
 6️⃣ Reasons for Using the App - Pie Chart
 
